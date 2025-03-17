@@ -1,4 +1,4 @@
-# Hi there, I'm Devarshee Gaurav Das 👋
+# Hi there, I'm Sayyed Asif Rizvi 👋
 
 ## About Me
 I'm a passionate Data Analyst with expertise in Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, and data visualization. I am currently looking for roles that involve SQL, Python, and Power BI.
@@ -17,14 +17,14 @@ Expanding my expertise in Machine Learning models and Azure Cloud.
 - **Collaboration**: Agile Methodologies, Cross-functional Teams, Stakeholder Communication
 
 ## Projects
-- [TLC NYC Dataset Analysis](https://github.com/devarshe/Data-Analytics-Portfolio/blob/main/NYC_TLC_Project.ipynb)
-- [Uber Data Analysis Project](https://github.com/devarshe/Data-Analytics-End-to-End-Projects/blob/b253d083b3e47af4e2123fa837dd42decc0b280d/Uber%20Project%20(Python)/Uber%20project.ipynb)
-- [Cafe Shop Sales Analysis](https://github.com/devarshe/Data-Analytics-Portfolio/blob/main/cafe%20shop%20MS%20SQL%20code.sql)
-- [Netflix EDA Project](https://github.com/devarshe/Data-Analytics-End-to-End-Projects/blob/b253d083b3e47af4e2123fa837dd42decc0b280d/NETFLIX%20EDA%2BDashboard%20(Python%20%2B%20Power%20BI)/OTT%20Project%20Python%20code.ipynb)
+- [Transaction-Fraud-Detection](https://github.com/SayyedAsifRizvi/Transaction-Fraud-Detection)
+- [Product_Performance_Analytics](https://github.com/SayyedAsifRizvi/Product_Performance_Analytics)
+- [Delhivery-Feature-Engg](https://github.com/SayyedAsifRizvi/Delhivery-Feature-Engg)
+- [Healthcare-Insights-Operational-Analytics](https://github.com/SayyedAsifRizvi/Healthcare-Insights-Operational-Analytics)
 
 ## Contact Me
-- 📧 Email: devarsheegaurav@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/devarshee-das-8b9660177/)
+- 📧 Email:  rizvisayyedasif@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sayyedasifrizvi/)
 <!-- - 🐦 [Twitter](https://twitter.com/<your-username>) -->
 <!-- - 🌐 [Portfolio](https://<your-username>.github.io) -->
 
